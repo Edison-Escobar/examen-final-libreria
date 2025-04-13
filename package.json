@@ -1,0 +1,19 @@
+{
+  "name": "app_el-rincon-del-saber",
+  "version": "1.0.0",
+  "description": "Sistema para administrar la libreria el rincon del saber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Progra"
+  ],
+  "author": "Edison Escobar",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10",
+    "requirer": "^0.0.4"
+  }
+}
